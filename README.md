@@ -1,5 +1,20 @@
 ## Procurement Performance and Insights
 
+### Table of Content 
+ - [Projects Overview](#project-overview)
+ - [Project Objective](#project-objective)
+ - [Tools](#tools) 
+ - [Data Workflow](#data-workflow) 
+ - [Key Metrics](#key-metrics)
+ - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+ - [Exploratory Data Analysis](#eploratory-data-analysis)
+ - [Key Insights and Visuals](#key-insights-and-visuals)
+ - [Recommendations](#recommendation)
+ - [Assumptions](#assumptions)
+ - [Limitations](#limitations)
+ - [Author](#author)
+
+
 ### Project overview 
 
  - This procurement analysis examines purchasing activity to provide a clear view of spending, supplier performance, delivery efficiency, quality, compliance, and cost savings.
