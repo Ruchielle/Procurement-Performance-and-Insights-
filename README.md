@@ -2,7 +2,7 @@
 
 ### Table of Content 
  - [Projects Overview](#project-overview)
- - [Project Objective](#project-objective)
+ - [Project Objectives](#project-objectives)
  - [Tools](#tools) 
  - [Data Workflow](#data-workflow) 
  - [Key Metrics](#key-metrics)
