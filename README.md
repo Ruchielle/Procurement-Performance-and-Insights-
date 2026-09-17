@@ -15,6 +15,9 @@
  - [Author](#author)
 
 
+![image atl](IMG_5611.jpeg)
+![image atl](IMG_5610.jpeg)
+
 ### Project overview 
 
  - This procurement analysis examines purchasing activity to provide a clear view of spending, supplier performance, delivery efficiency, quality, compliance, and cost savings.
